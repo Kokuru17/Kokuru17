@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Azrul a.k.a @Kokuru17
+- 👋 Hi, I’m Azrul
 - 👀 I'm just like to learn programming language. Have learn C programming before
 - 🌱 I’m currently learning C++, Javascript, and Kotlin
 - 💞️ Nice to meet you!
