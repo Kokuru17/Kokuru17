@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azrul
-- 👀 I'm just like to learn programming language. Have learn C programming before
-- 🌱 I’m currently learning C++, Javascript, and Kotlin
+- 👀 I'm just like to learn programming language. Have learn C programming and Kotlin
+- 🌱 I’m currently learning C++ and Javascript
 - 💞️ Nice to meet you!
 
 <!---
